@@ -217,7 +217,14 @@ def ingest():
     if not token:
         return jsonify({"ok": False, "error": "INGEST_TOKEN is not configured on server"}), 500
 
-    provided = request.headers.get("X-Ingest-Token", "").strip()
+    provided_header = request.headers.get("X-Ingest-Token", "").strip()
+    auth_header = request.headers.get("Authorization", "").strip()
+    provided_bearer = ""
+    if auth_header.lower().startswith("bearer "):
+        provided_bearer = auth_header[7:].strip()
+    provided_form = request.form.get("ingest_token", "").strip()
+    provided_query = request.args.get("token", "").strip()
+    provided = provided_header or provided_bearer or provided_form or provided_query
     if provided != token:
         return jsonify({"ok": False, "error": "Unauthorized"}), 401
 
