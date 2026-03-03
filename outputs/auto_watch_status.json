@@ -1,0 +1,9 @@
+{
+  "last_checked_utc": "2026-03-03T16:10:23.131146+00:00",
+  "drop_dir": "C:\\dev\\Packaging+Inventory Priority\\inputs\\auto_drop",
+  "strict_latest_names": true,
+  "inventory_pattern": "(inventory|packages|valuation|needs)",
+  "sales_pattern": "(sales|sku|sold)",
+  "last_result": "waiting",
+  "last_error": "Required input pair not found"
+}

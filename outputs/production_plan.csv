@@ -1,0 +1,26 @@
+Priority Rank,Priority,Need SKU,Need Name,Need Type,Unavailable,Need List Qty,Need Available Qty,Need Reserved Qty,Need On Hand Qty,Recommended Qty,Matched Strain,Fillable From Source,Source Rule,Suggested Source SKU,Suggested Source Name,Source Available Qty,Match Type,Testing Status,Scheduling Ready,Blocked Reason
+6,Critical,SRN-PRJ-MEL,SRENE - 1g - Pre-roll - Melonade,Preroll,Yes,0.0,0.0,0.0,0.0,858,melonade,No,Trim/Preroll Material only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+7,Critical,SRE- PRJ - SCF - .7 - 5pk,SRENE - Sin City Funk - Pre Roll - .7g - 5 Pack,Preroll,Yes,0.0,0.0,0.0,0.0,616,sin city funk,Yes,Trim/Preroll Material only,SRE-TRM-SCF,Trim - Sin City Funk,5159.86,Exact,NOT PROVIDED,No,Source testing not passed
+8,Critical,SRE-3.5-JAR-STH,SRENE - 3.5 grams - Jar - Strange Haze #8,Unit,No,7.0,7.0,0.0,7.0,825,strange haze,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+9,Critical,SRE-3.5-JAR-SPJ,SRENE - 3.5 grams - Jar - Space Junky,Unit,Yes,0.0,0.0,0.0,0.0,578,space junky,Yes,Flower/Smalls only,SRE-BUD-SPJ,Bud - Space Junky,9025.76,Exact,NOT PROVIDED,No,Source testing not passed
+10,Critical,SRE-1g-CRT-PUH,SRENE - 1g Cart - Purple Haze,Cart,Yes,0.0,0.0,0.0,0.0,532,purple haze,Yes,Distillate only,SRE-DST-FOR-PUH,Purple Haze - Distillate,989.0,Exact,NOT PROVIDED,No,Source testing not passed
+11,Critical,SRE-14.-MYL-ZRG,SRENE - 1/2 Ounce - Zero Gravity,Unit,Yes,0.0,0.0,0.0,0.0,497,zero gravity,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+12,Critical,SRE- PRJ - BIO - .7 - 5pk,SRENE - BioFuel - Pre Roll - .7g - 5 Pack,Preroll,Yes,0.0,0.0,0.0,0.0,490,biofuel,Yes,Trim/Preroll Material only,SRE-TRM-BIF,Trim - BioFuel,6476.66,Exact,NOT PROVIDED,No,Source testing not passed
+13,Critical,SRE-14.-MYL-SPJ,SRENE - 1/2 Ounce - Space Junky,Unit,Yes,0.0,0.0,0.0,0.0,444,space junky,Yes,Flower/Smalls only,SRE-BUD-SPJ,Bud - Space Junky,9025.76,Exact,NOT PROVIDED,No,Source testing not passed
+14,Critical,SRE-14.-MYL-GOO,SRENE - 1/2 Ounce - GovernMint Oasis,Unit,Yes,0.0,0.0,0.0,0.0,381,governmint oasis,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+15,Critical,SRE-14.-MYL- PUS,SRENE - 1/2 Ounce - Purple Slush,Unit,Yes,0.0,0.0,0.0,0.0,381,purple slush,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+16,Critical,VYB-3.5-MYL-PUS,VYBZ - 3.5 grams - Purple Slush,Unit,Yes,0.0,0.0,0.0,0.0,373,purple slush,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+17,Critical,SRE-14.-MYL-TRA,SRENE - 1/2 Ounce - Tropicana Acai,Unit,Yes,0.0,0.0,0.0,0.0,341,tropicana acai,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+21,Critical,VYB-3.5-MYL-MEL,VYBZ - 3.5 grams - Melonade,Unit,Yes,0.0,0.0,0.0,0.0,236,melonade,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+22,Critical,SRE-3.5-JAR-PUR,SRENE - 3.5 grams - Jar - Purple Slush,Unit,Yes,0.0,0.0,0.0,0.0,210,purple slush,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+23,Critical,SRE-14.-MYL-STH,SRENE - 1/2 Ounce - Strange Haze #8,Unit,Yes,0.0,0.0,0.0,0.0,210,strange haze,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+24,Critical,SRE-14.-MYL-MEL,SRENE - 1/2 Ounce - Melonade,Unit,Yes,0.0,0.0,0.0,0.0,151,melonade,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+25,Critical,SRE-14.-MYL-LIS,SRENE - 1/2 Ounce - Limesicle,Unit,Yes,0.0,0.0,0.0,0.0,112,limesicle,Yes,Flower/Smalls only,SRE-BUD-LIM,Bud - Limesicle,6770.03,Exact,NOT PROVIDED,No,Source testing not passed
+26,Critical,SRE-1g-CRT-PSS,SRENE - 1g Cart - Purple Slush,Cart,Yes,0.0,0.0,0.0,0.0,105,purple slush,No,Distillate only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+27,Critical,SRE- PRJ - PUR - .7 - 5pk,SRENE - Purple Slush - Pre Roll - .7g - 5 Pack,Preroll,Yes,0.0,0.0,0.0,0.0,75,purple slush,No,Trim/Preroll Material only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+28,Critical,SRE-1g-CRT-AIO-JFA,SRENE - 1g AIO Cart - Jet Fuel Acai,Cart,Yes,0.0,0.0,0.0,0.0,70,jet fuel acai,No,Distillate only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+29,Critical,SRE-1g-CRT-BBG,SRENE - 1g Cart - BubbleGum Gary,Cart,Yes,0.0,0.0,0.0,0.0,70,bubblegum gary,No,Distillate only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+30,Critical,VYB-14-MYL-PER,VYBZ - 1/2 Ounce - Peach Rings,Unit,Yes,0.0,0.0,0.0,0.0,25,peach rings,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+38,Critical,SRE-3.5-JAR-GOO,SRENE - 3.5 grams - Jar - GovernMint Oasis,Unit,Yes,0.0,0.0,0.0,0.0,1,governmint oasis,No,Flower/Smalls only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+41,Critical,VYB-PRJ-GLB,Vybz - 1g - Pre-roll - GlitterBomb,Preroll,Yes,0.0,0.0,0.0,0.0,1,glitterbomb,No,Trim/Preroll Material only,,,0.0,NoMatch,NOT PROVIDED,No,No matching source strain
+42,Critical,VYB-PRJ-DAS,Vybz - 1g - Pre-roll - DayStripper,Preroll,Yes,0.0,0.0,0.0,0.0,1,daystripper,Yes,Trim/Preroll Material only,SRE-TRM-DAY,Trim - DayStripper,3504.62,Exact,NOT PROVIDED,No,Source testing not passed

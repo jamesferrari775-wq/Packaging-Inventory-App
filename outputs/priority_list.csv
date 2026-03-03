@@ -1,0 +1,271 @@
+Priority Rank,Priority,SKU,Name,Need Type,Unit Type,Category,Subcategory,List Qty,Available Qty,Reserved Qty,Incoming Qty,Threshold Min,Sales Window Days,Units Sold,Avg Daily Sales,Days of Cover,Target Days of Cover,Recommended Reorder Qty,Urgency Score,Unavailable
+1,Critical,SRE-TRM-ROG,Trim - Royale Grape,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,12265.4,408.8467,0.0,21.0,8586,90.0,Yes
+2,Critical,SRE-TRM-MEL,Trim - Melonade,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,6687.8,222.9267,0.0,21.0,4682,80.91,Yes
+3,Critical,SRE-TRM-PUS,Trim - Purple Slush,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,6262.4,208.7467,0.0,21.0,4384,80.21,Yes
+4,Critical,SRE-TRM-SH8,Trim - Strange Haze #8,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,5484.2,182.8067,0.0,21.0,3839,78.94,Yes
+5,Critical,SRE-BUD-GOO,Bud - GovernMint Oasis,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,1691.0,56.3667,0.0,21.0,1184,72.76,Yes
+6,Critical,SRN-PRJ-MEL,SRENE - 1g - Pre-roll - Melonade,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,1225.0,40.8333,0.0,21.0,858,72.0,Yes
+7,Critical,SRE- PRJ - SCF - .7 - 5pk,SRENE - Sin City Funk - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,880.0,29.3333,0.0,21.0,616,71.43,Yes
+8,Critical,SRE-3.5-JAR-STH,SRENE - 3.5 grams - Jar - Strange Haze #8,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,7.0,7.0,0.0,0.0,0.0,30,1188.0,39.6,0.2,21.0,825,71.35,No
+9,Critical,SRE-3.5-JAR-SPJ,SRENE - 3.5 grams - Jar - Space Junky,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,825.0,27.5,0.0,21.0,578,71.35,Yes
+10,Critical,SRE-1g-CRT-PUH,SRENE - 1g Cart - Purple Haze,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,760.0,25.3333,0.0,21.0,532,71.24,Yes
+11,Critical,SRE-14.-MYL-ZRG,SRENE - 1/2 Ounce - Zero Gravity,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,710.0,23.6667,0.0,21.0,497,71.16,Yes
+12,Critical,SRE- PRJ - BIO - .7 - 5pk,SRENE - BioFuel - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,700.0,23.3333,0.0,21.0,490,71.14,Yes
+13,Critical,SRE-14.-MYL-SPJ,SRENE - 1/2 Ounce - Space Junky,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,634.0,21.1333,0.0,21.0,444,71.03,Yes
+14,Critical,SRE-14.-MYL-GOO,SRENE - 1/2 Ounce - GovernMint Oasis,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,543.0,18.1,0.0,21.0,381,70.89,Yes
+15,Critical,SRE-14.-MYL- PUS,SRENE - 1/2 Ounce - Purple Slush,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,543.0,18.1,0.0,21.0,381,70.89,Yes
+16,Critical,VYB-3.5-MYL-PUS,VYBZ - 3.5 grams - Purple Slush,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,0.0,0.0,0.0,0.0,0.0,30,532.0,17.7333,0.0,21.0,373,70.87,Yes
+17,Critical,SRE-14.-MYL-TRA,SRENE - 1/2 Ounce - Tropicana Acai,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,487.0,16.2333,0.0,21.0,341,70.79,Yes
+18,Critical,SRE-BUD-ROG,Bud - Royale Grape,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,454.0,15.1333,0.0,21.0,318,70.74,Yes
+19,Critical,SRE-TRM-GOO,Trim - GovernMint Oasis,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,445.0,14.8333,0.0,21.0,312,70.73,Yes
+20,Critical,SRE-TRM-PUH,Trim - Purple Haze,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,338.0,11.2667,0.0,21.0,237,70.55,Yes
+21,Critical,VYB-3.5-MYL-MEL,VYBZ - 3.5 grams - Melonade,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,0.0,0.0,0.0,0.0,0.0,30,336.0,11.2,0.0,21.0,236,70.55,Yes
+22,Critical,SRE-3.5-JAR-PUR,SRENE - 3.5 grams - Jar - Purple Slush,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,300.0,10.0,0.0,21.0,210,70.49,Yes
+23,Critical,SRE-14.-MYL-STH,SRENE - 1/2 Ounce - Strange Haze #8,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,299.0,9.9667,0.0,21.0,210,70.49,Yes
+24,Critical,SRE-14.-MYL-MEL,SRENE - 1/2 Ounce - Melonade,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,215.0,7.1667,0.0,21.0,151,70.35,Yes
+25,Critical,SRE-14.-MYL-LIS,SRENE - 1/2 Ounce - Limesicle,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,160.0,5.3333,0.0,21.0,112,70.26,Yes
+26,Critical,SRE-1g-CRT-PSS,SRENE - 1g Cart - Purple Slush,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,150.0,5.0,0.0,21.0,105,70.24,Yes
+27,Critical,SRE- PRJ - PUR - .7 - 5pk,SRENE - Purple Slush - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,107.0,3.5667,0.0,21.0,75,70.17,Yes
+28,Critical,SRE-1g-CRT-AIO-JFA,SRENE - 1g AIO Cart - Jet Fuel Acai,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,100.0,3.3333,0.0,21.0,70,70.16,Yes
+29,Critical,SRE-1g-CRT-BBG,SRENE - 1g Cart - BubbleGum Gary,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,100.0,3.3333,0.0,21.0,70,70.16,Yes
+30,Critical,VYB-14-MYL-PER,VYBZ - 1/2 Ounce - Peach Rings,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,35.0,1.1667,0.0,21.0,25,70.06,Yes
+31,Critical,SMA-DAY-AFE,Smalls - DayStripper - AFE,Bulk,Gram,Small/Popcorn Buds Approved for Extraction,Approved for Extraction,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+32,Critical,SRE-DST-FOR-GD,Guava Diesel - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+33,Critical,SRE-SMA-DAY,Smalls - DayStripper,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+34,Critical,SRE-SMA-LER,Smalls - Lemon Rope,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+35,Critical,SRE-SMA-SH8,Smalls - Strange Haze #8,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+36,Critical,SRE-TRM-ELC,Trim - El Chivo,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+37,Critical,SRE-TRM-HEJ,Trim - Hella Jelly,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+38,Critical,SRE-3.5-JAR-GOO,SRENE - 3.5 grams - Jar - GovernMint Oasis,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+39,Critical,SRE-DST-FOR-FRP,Fruity P - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+40,Critical,SRE-DST-FOR-CHN,Chem NV - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+41,Critical,VYB-PRJ-GLB,Vybz - 1g - Pre-roll - GlitterBomb,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+42,Critical,VYB-PRJ-DAS,Vybz - 1g - Pre-roll - DayStripper,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+43,Critical,SRE-DST-FOR-GUS,Guava Papaya Smoothie - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+44,Critical,SRE-SMA-SPJ-AFE,Smalls - Space Junky - AFE,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+45,Critical,SRE - PRJ - SPJ,Space Junky - Pre Roll - 1g,Preroll,Gram,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+46,Critical,SRE-TRM-GAG-AFE,Trim - Green Apple Gas - AFE,Bulk,Gram,Shake/Trim Approved for Extraction,,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+47,Critical,SRE-DST-FOR-CHR,ChemPebbles Reserve - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+48,Critical,SRE-DST-FOR-GOO,GovernMint Oasis - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+49,Critical,SRE-1g-CRT-AIO-SAT,SRENE - 1g AIO Cart - Satellite Syrup,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+50,Critical,SRE-DST-FOR-BIO,BioFuel - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+51,Critical,SRE-DST-FOR-DAY,DayStripper Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+52,Critical,SRE-TRM-HOD,Trim - HoneyDew,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+53,Critical,SRE-1g-CRT-CHE-BUL,SRENE - 1g Cart - Chem NV (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+54,Critical,SRE-SMA-TRA,Smalls - Tropicana Acai,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+55,Critical,SRE-PRM-OBX,Preroll Material - O.B.X,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+56,Critical,SRE-DST-FOR-LSC,Limesicle - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+57,Critical,SRE-14.-MYL-CNV,SRENE - 1/2 Ounce - Chem-NV,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+58,Critical,SRE-DST-FOR-LMS,Lemon Slush - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+59,Critical,SRE-DST-FOR-PB,Platinum Berry,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+60,Critical,SRE-SMA-STG,Smalls - Stripper Glitter,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+61,Critical,SRE-TRM-LES,Trim - Lemon Slushy,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+62,Critical,SRE- PRJ - MEL - 2pk,SRENE - Melonade - Pre Roll - .7g - 2 Pack,Preroll,Unit,Pre-rolled cigs/joints,2pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+63,Critical,SRE-1g-CRT-PH-BUL,SRENE - 1g Cart - Purple Haze (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+64,Critical,SRE-1g-CRT-SH8-BUL,SRENE - 1g Cart - Strange Haze #8 (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+65,Critical,SRE-SMA-PUS,Smalls - Purple Slush,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+66,Critical,SRE-1g-CRT-AIO-ROH-BUL,SRENE - 1g AIO Cart - Royale Haze (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+67,Critical,SRE-DST-FOR-GAP,Gas n' Peaches - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+68,Critical,SRE-BUD-ZEG,Bud - Zero Gravity,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+69,Critical,SRE-TRM-GAG,Trim - Green Apple Gas,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+70,Critical,SRE-DST-FOR-SIF,Sin City Funk - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+71,Critical,SRE-BUD-FRP,Bud - Fruity P,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+72,Critical,SRE-SMA-ZEG,Smalls - Zero Gravity,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+73,Critical,VYB-PRJ-PUH,Vybz - 1g - Pre-roll - Purple Haze,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+74,Critical,SRE-3.5-JAR-BIF,SRENE - 3.5 grams - Jar - BioFuel,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+75,Critical,SRE-1g-CRT-AIO-PEA,SRENE - 1g AIO Cart - Peach Octane,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+76,Critical,VYB-PRJ-FRP,Vybz - 1g - Pre-roll - Fruity P,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+77,Critical,SRE-1g-CRT-SAT,SRENE - 1g Cart - Satellite Syrup,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+78,Critical,SRE-DST-FOR-BGA,BubbleGum Gary - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+79,Critical,SMA-BBG-AFE,Smalls - BubbleGum Gary - AFE,Bulk,Gram,Small/Popcorn Buds Approved for Extraction,Approved for Extraction,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+80,Critical,SRE-BUD-PUH,Bud - Purple Haze,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+81,Critical,SRE-BUD-BGG,Bud - BubbleGum Gary,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+82,Critical,SRE-SMA-MEL,Smalls - Melonade,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+83,Critical,SRE-SMA-GOO,Smalls - GovernMint Oasis,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+84,Critical,SRE-PRM-GOV,Preroll Material - GovernMint Oasis,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+85,Critical,SRE-DST-FOR-SPJ,Space Junky - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+86,Critical,SRE-SMA-ROG,Smalls - Royale Grape,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+87,Critical,VYB-PRJ-STH,Vybz - 1g - Pre-roll - Strange Haze #8,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+88,Critical,SRE- PRJ - MEL - .7 - 5pk,SRENE - Melonade - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+89,Critical,SRE-1g-CRT-PEA,SRENE - 1g Cart - Peach Octane,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+90,Critical,SRE-1g-CRT-747,SRENE - 1g Cart - 747,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+91,Critical,SRE-1g-CRT-DAS-BUL,SRENE - 1g Cart - DayStripper (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+92,Critical,VYB - PRJ - PIN - 2pk,VYBZ - Pineapple Frizz - Pre Roll - .7g - 2 Pack,Preroll,Unit,Pre-rolled cigs/joints,2pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+93,Critical,SRE-DST-FOR-HEJ,Hella Jelly - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+94,Critical,SRE-1g-CRT-HOD-BUL,SRENE - 1g Cart - Honey Dew (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+95,Critical,SRE-1g-CRT-LIM-BUL,SRENE - 1g Cart - Limesicle (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+96,Critical,SRE-PRM-DAY,Preroll Material - DayStripper,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+97,Critical,SRE-DST-FOR-WO,White Out - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+98,Critical,SRE-SMA-SCF,Smalls - Sin City Funk,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+99,Critical,PSL-PRJ-DSS,Daystripper - Pre Roll - 1.0g,Preroll,Gram,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+100,Critical,VYB-3.5-MYL-HOD,VYBZ - 3.5 grams - HoneyDew,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+101,Critical,SRE-1g-CRT-GOO,SRENE - 1g Cart - GovernMint Oasis,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+102,Critical,SRE-DST-FOR-FRU,Fruity Roll-Upz Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+103,Critical,SRE-1g-CRT-HEJ-BUL,SRENE - 1g Cart - Hella Jelly (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+104,Critical,SRE-DST-FOR-747,747 - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+105,Critical,SRE-1g-CRT-AIO-BLM-BUL,SRENE - 1g AIO Cart - Blueberry Moon (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+106,Critical,VYB-3.5-MYL-FRP,VYBZ - 3.5 grams - Fruity P,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+107,Critical,SRE-1g-CRT-AIO-BIF,SRENE - 1g AIO Cart - BioFuel,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+108,Critical,SRE-1g-CRT-GD-BUL,SRENE - 1g Cart - Guava Diesel (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+109,Critical,SRE-1g-CRT-MEL-BUL,SRENE - 1g Cart - Melonade (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+110,Critical,SRE-1g-CRT-SKC-BUL,SRENE - 1g Cart - Strawberry Kush Cake (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+111,Critical,SRE-BUD-LES,Bud - Lemon Slushy,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+112,Critical,SRN-PRJ-SPJ,SRENE - 1g - Pre-roll - Space Junky,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+113,Critical,VYB-14-MYL-PIF,VYBZ - 1/2 Ounce - Pineapple Frizz,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+114,Critical,SRE-TRM-MOM,Trim - Moon Myst,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+115,Critical,SRE-1g-CRT-AIO-GD-BUL,SRENE - 1g AIO Cart - Guava Diesel (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+116,Critical,SRE-DST-FOR-ROY,Royale Haze - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+117,Critical,SRE-SMA-FRP,Smalls - Fruity P,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+118,Critical,VYB - PRJ - GAR - 2pk,VYBZ - Garlic LeCrem - Pre Roll - .7g - 2 Pack,Preroll,Unit,Pre-rolled cigs/joints,2pk Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+119,Critical,SRE-TRM-JGD,Trim - (JFAxGB) x DayStripper,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+120,Critical,SRE-1g-CRT-AIO-PS,SRENE - 1g AIO Cart - Purple Slush,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+121,Critical,SRE-1g-CRT-BLM-BUL,SRENE - 1g Cart - Blueberry Moon (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+122,Critical,SRE-1g-CRT-TAS-BUL,SRENE - 1g Cart - Tropicana Acai Slush (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+123,Critical,SRE-PRM-STR,Preroll Material - Strange Haze #8,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+124,Critical,SRE-DIS-STC,Strawberry Kush Cake - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+125,Critical,SRE-DST-FOR-APJ,Apple Juice - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+126,Critical,PSL-PRJ-BUL,Purple Slush - Pre Roll - 1.0g,Preroll,Gram,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+127,Critical,SRE-BUD-DAY-AFE,Bud - DayStripper - AFE,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+128,Critical,SRE-1g-CRT-GPS-BUL,SRENE - 1g Cart - Guava Papaya Smoothie (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+129,Critical,SRE-3.5-JAR-FRP,SRENE - 3.5 grams - Jar - Fruity P,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+130,Critical,SRE-DST-FOR-TRB,Tropical Breath - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+131,Critical,SRE-SMA-OBX,Smalls - O.B.X.,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+132,Critical,SRE-BUD-PUS,Bud - Purple Slush,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+133,Critical,SRE-DST-FOR-TCL,Tropicana Acai Slush - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+134,Critical,SRE-BUD-TRA,Bud - Tropicana Acai,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+135,Critical,SRE-DST-FOR-FRH,Fruity Haze - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+136,Critical,SRE-DST-FOR-SH8,Strange Haze #8 - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+137,Critical,SRE-SMA-BIF,Smalls - BioFuel,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+138,Critical,SRE-BUD-MEL,Bud - Melonade,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+139,Critical,SRE-14.-MYL-FRP,SRENE - 1/2 Ounce - Fruity P,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+140,Critical,SRE-PRM-SPA,Preroll Material - Space Junky,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+141,Critical,SRE-1g-CRT-ROH-BUL,SRENE - 1g Cart - Royale Haze (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+142,Critical,SRN-PRJ-LIM,SRENE - 1g - Pre-roll - Limesicle,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+143,Critical,SRE-DST-FOR-MEL,Melonade - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+144,Critical,SRE-14.-MYL-LES,SRENE - 1/2 Ounce - Lemon Slushy,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+145,Critical,SRE-TRM-DVH,Trim - Dog Valley Haze,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+146,Critical,SRE-1g-CRT-SCF-BUL,SRENE - 1g Cart - Sin City Funk (BULK),Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+147,Critical,SRE-DST-FOR-BBM,Blueberry Moon - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+148,Critical,VYB-PRJ-PUS,Vybz - 1g - Pre-roll - Purple Slush,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+149,Critical,SRE-3.5-JAR-PUH,SRENE - 3.5 grams - Jar - Purple Haze,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+150,Critical,SRE-PRM-PUR,Preroll Material - Purple Slush,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+151,Critical,SRE-TRM-FRP,Trim - Fruity P,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+152,Critical,SRE-DST-FOR-HC,Haze n' Chill - 2:1:1,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+153,Critical,VYB-14.-MYL-GMO,VYBZ - 1/2 Ounce - GovernMint Oasis,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+154,Critical,SRE-PRM-TRO,Preroll Material - Tropicana Acai,Bulk,Gram,Shake/Trim,Preroll Material,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+155,Critical,SRE-DST-FOR-FRD,Fruity Dreams 2:1:1 - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+156,Critical,SRE-3.5-JAR-STG,SRENE - 3.5 grams - Jar - Stripper Glitter,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+157,Critical,SRE-DST-FOR-CHB,Cherry Bomb,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+158,Critical,VYB-PRJ-SCF,Vybz - 1g - Pre-roll - Sin City Funk,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+159,Critical,SRE-TRM-FG7,Trim - Fruity P x Garlic Breath #7,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+160,Critical,SRE-BUD-STH,Bud - Strange Haze #8,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+161,Critical,VYB-3.5-MYL-PUH,VYBZ - 3.5 grams - Purple Haze,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+162,Critical,SRE-DST-FOR-HD,Honey Dew - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,0.0,0.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,1,70.0,Yes
+163,Critical,SRE-1g-CRT-BLM,SRENE - 1g Cart - Blueberry Moon,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,9.0,9.0,0.0,0.0,0.0,30,685.0,22.8333,0.4,21.0,471,69.8,No
+164,Critical,VYB-3.5-MYL-GOO,VYBZ - 3.5 grams - GovernMint Oasis,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,26.0,26.0,0.0,0.0,0.0,30,525.0,17.5,1.5,21.0,342,65.9,No
+165,Critical,SRN-PRJ-PUH,SRENE - 1g - Pre-roll - Purple Haze,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,42.0,42.0,0.0,0.0,0.0,30,725.0,24.1667,1.7,21.0,466,65.39,No
+166,Critical,SRN-PRJ-OBX,SRENE - 1g - Pre-roll - O.B.X.,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,117.0,117.0,0.0,0.0,0.0,30,1375.0,45.8333,2.6,21.0,846,63.73,No
+167,Critical,SRE-14.-MYL-OBX,SRENE - 1/2 Ounce - O.B.X.,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,146.0,146.0,0.0,0.0,0.0,30,1522.0,50.7333,2.9,21.0,920,62.89,No
+168,Critical,SRE-BUD-BIF,Bud - BioFuel,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,50.65,50.65,0.0,0.0,0.0,30,454.0,15.1333,3.3,21.0,268,59.58,No
+169,Critical,SRE-BUD-LER,Bud - Lemon Rope,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,51.87,51.87,0.0,0.0,0.0,30,454.0,15.1333,3.4,21.0,266,59.32,No
+170,Critical,SRE-14.-MYL-BIF,SRENE - 1/2 Ounce - BioFuel,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,92.0,92.0,0.0,0.0,0.0,30,756.0,25.2,3.7,21.0,438,59.06,No
+171,Critical,SRE-1-CRT-GNP,SRENE - 1g Cart - Gas n' Peaches,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,75.0,75.0,0.0,0.0,0.0,30,550.0,18.3333,4.1,21.0,310,57.26,No
+172,Critical,SRE-1g-CRT-SKC,SRENE - 1g Cart - Strawberry Kush Cake,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,124.0,124.0,0.0,0.0,0.0,30,610.0,20.3333,6.1,21.0,303,50.67,No
+173,Critical,VYB-PRJ-GOO,Vybz - 1g - Pre-roll - GovernMint Oasis,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,10.0,10.0,0.0,0.0,0.0,30,50.0,1.6667,6.0,21.0,25,50.08,No
+174,High,SRE-TRM-DAY,Trim - DayStripper,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,3504.62,3504.62,0.0,0.0,0.0,30,9649.0,321.6333,10.9,21.0,3250,49.41,No
+175,High,SRE-1g-CRT-TAS,SRENE - 1g Cart - Tropicana Acai Slush,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,282.0,282.0,0.0,0.0,0.0,30,1060.0,35.3333,8.0,21.0,460,45.12,No
+176,High,SRN-PRJ-GOV,SRENE - 1g - Pre-roll - GovernMint Oasis,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,316.0,316.0,0.0,0.0,0.0,30,1175.0,39.1667,8.1,21.0,507,45.02,No
+177,High,SRE-14.-MYL-ROG,SRENE - 1/2 Ounce - Royale Grape,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,205.0,205.0,0.0,0.0,0.0,30,758.0,25.2667,8.1,21.0,326,44.19,No
+178,High,SRE-1g-CRT-DSS,SRENE - 1g Cart - DayStripper,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,277.0,277.0,0.0,0.0,0.0,30,1000.0,33.3333,8.3,21.0,423,43.93,No
+179,High,SRE-14.-MYL-SCF,SRENE - 1/2 Ounce - Sin City Funk,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,159.0,159.0,0.0,0.0,0.0,30,570.0,19.0,8.4,21.0,240,43.03,No
+180,High,SRN-PRJ-DAS,SRENE - 1g - Pre-roll - DayStripper,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,750.0,750.0,0.0,0.0,0.0,30,2267.0,75.5667,9.9,21.0,837,40.61,No
+181,High,SRE-1g-CRT-AIO-BLM,SRENE - 1g AIO Cart - Blueberry Moon,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,75.0,75.0,0.0,0.0,0.0,30,250.0,8.3333,9.0,21.0,100,40.41,No
+182,High,SRE-TRM-OBX,Trim - O.B.X.,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,382.0,382.0,0.0,0.0,0.0,30,1176.0,39.2,9.7,21.0,442,39.43,No
+183,High,SRE-1g-CRT-LH,SRENE - 1g Cart - Lemon Haze,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,73.0,73.0,0.0,0.0,0.0,30,225.0,7.5,9.7,21.0,85,37.92,No
+184,High,SRE-14.-MYL-STG,SRENE - 1/2 Ounce - Stripper Glitter,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,414.0,414.0,0.0,0.0,0.0,30,1080.0,36.0,11.5,21.0,342,33.43,No
+185,High,SRE-1g-CRT-MEL,SRENE - 1g Cart - Melonade,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,361.0,361.0,0.0,0.0,0.0,30,900.0,30.0,12.0,21.0,269,31.36,No
+186,High,SRE- PRJ - ROS - .7 - 5pk,SRENE - Rose Sorbet - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,131.0,131.0,0.0,0.0,0.0,30,300.0,10.0,13.1,21.0,79,26.82,No
+187,High,SRE-14.-MYL-DAY,SRENE - 1/2 Ounce - DayStripper,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,375.0,375.0,0.0,0.0,0.0,30,823.0,27.4333,13.7,21.0,202,25.78,No
+188,Medium,SRE-TRM-TRA,Trim - Tropicana Acai,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,6035.9,6035.9,0.0,0.0,0.0,30,11886.8,396.2267,15.2,21.0,2285,38.6,No
+189,Medium,SRE-1g-CRT-SH8,SRENE - 1g Cart - Strange Haze #8,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,420.0,420.0,0.0,0.0,0.0,30,900.0,30.0,14.0,21.0,210,24.8,No
+190,Medium,VYB-3.5-MYL-OBX,VYBZ - 3.5 grams - O.B.X.,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,525.0,525.0,0.0,0.0,0.0,30,1075.0,35.8333,14.7,21.0,228,22.92,No
+191,Medium,SRN-PRJ-STH,SRENE - 1g - Pre-roll - Strange Haze #8,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,522.0,522.0,0.0,0.0,0.0,30,1061.0,35.3667,14.8,21.0,221,22.53,No
+192,Medium,SRE-1g-CRT-LIM,SRENE - 1g Cart - Limesicle,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,210.0,210.0,0.0,0.0,0.0,30,425.0,14.1667,14.8,21.0,88,21.28,No
+193,Medium,SRE-3.5-JAR-SCF,SRENE - 3.5 grams - Jar - Sin City Funk,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,706.0,706.0,0.0,0.0,0.0,30,1250.0,41.6667,16.9,21.0,169,15.56,No
+194,Medium,SRE-TRM-STG,Trim - Stripper Glitter,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,5078.67,5078.67,0.0,0.0,0.0,30,7585.4,252.8467,20.1,21.0,232,15.42,No
+195,Medium,SRE-1g-CRT-HEJ,SRENE - 1g Cart - Hella Jelly,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,303.0,303.0,0.0,0.0,0.0,30,525.0,17.5,17.3,21.0,65,13.14,No
+196,Medium,SRE-3.5-JAR-DAY,SRENE - 3.5 grams - Jar - DayStripper,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,660.0,660.0,0.0,0.0,0.0,30,1105.0,36.8333,17.9,21.0,114,12.07,No
+197,Low,SRE-TRM-SPJ,Trim - Space Junky,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,15114.96,15114.96,0.0,0.0,0.0,30,8225.0,274.1667,55.1,21.0,0,13.41,No
+198,Low,SRE-TRM-LIM,Trim - Limesicle,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,5196.37,5196.37,0.0,0.0,0.0,30,3797.4,126.58,41.1,21.0,0,6.19,No
+199,Low,SRE-TRM-LER,Trim - Lemon Rope,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,2757.81,2757.81,0.0,0.0,0.0,30,3506.0,116.8667,23.6,21.0,0,5.72,No
+200,Low,SRE-TRM-BIF,Trim - BioFuel,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,6476.66,6476.66,0.0,0.0,0.0,30,2366.0,78.8667,82.1,21.0,0,3.86,No
+201,Low,SRE-TRM-ZEG,Trim - Zero Gravity,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,5637.56,5637.56,0.0,0.0,0.0,30,1185.6,39.52,142.7,21.0,0,1.93,No
+202,Low,SRE-TRM-ROS,Trim - Rose Sorbet,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,7027.39,7027.39,0.0,0.0,0.0,30,948.0,31.6,222.4,21.0,0,1.55,No
+203,Low,SRE-TRM-SCF,Trim - Sin City Funk,Bulk,Gram,Shake/Trim,Bulk Shake/Trim,5159.86,5159.86,0.0,0.0,0.0,30,781.4,26.0467,198.1,21.0,0,1.27,No
+204,Low,SRE-3.5-JAR-ROG,SRENE - 3.5 grams - Jar - Royale Grape,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,846.0,846.0,0.0,0.0,0.0,30,748.0,24.9333,33.9,21.0,0,1.22,No
+205,Low,VYB-3.5-MYL-TRA,VYBZ - 3.5 grams - Tropicana Acai,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,1387.0,1387.0,0.0,0.0,0.0,30,738.0,24.6,56.4,21.0,0,1.2,No
+206,Low,SRN-PRJ-BIF,SRENE - 1g - Pre-roll - BioFuel,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,3462.0,3462.0,0.0,0.0,0.0,30,600.0,20.0,173.1,21.0,0,0.98,No
+207,Low,SRN-PRJ-PUR,SRENE - 1g - Pre-roll - Purple Slush,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,1628.0,1628.0,0.0,0.0,0.0,30,600.0,20.0,81.4,21.0,0,0.98,No
+208,Low,SRN-PRJ-ROS,SRENE - 1g - Pre-roll - Rose Sorbet,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,2669.0,2669.0,0.0,0.0,0.0,30,550.0,18.3333,145.6,21.0,0,0.9,No
+209,Low,SRE-3.5-JAR-ZEG,SRENE - 3.5 grams - Jar - Zero Gravity,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,1899.0,1899.0,0.0,0.0,0.0,30,525.0,17.5,108.5,21.0,0,0.86,No
+210,Low,SRE-3.5-JAR-LIM,SRENE - 3.5 grams - Jar - Limesicle,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,779.0,779.0,0.0,0.0,0.0,30,475.0,15.8333,49.2,21.0,0,0.77,No
+211,Low,SRE-3.5-JAR-ROS,SRENE - 3.5 grams - Jar - Rose Sorbet,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,684.0,684.0,0.0,0.0,0.0,30,475.0,15.8333,43.2,21.0,0,0.77,No
+212,Low,SRE- PRJ - ZER - .7 - 5pk,SRENE - Zero Gravity - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,669.0,669.0,0.0,0.0,0.0,30,475.0,15.8333,42.3,21.0,0,0.77,No
+213,Low,SRE- PRJ - ROY - .7 - 5pk,SRENE - Royale Grape - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,550.0,550.0,0.0,0.0,0.0,30,450.0,15.0,36.7,21.0,0,0.73,No
+214,Low,SRE- PRJ - SPA - .7 - 5pk,SRENE - Space Junky - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,938.0,938.0,0.0,0.0,0.0,30,400.0,13.3333,70.3,21.0,0,0.65,No
+215,Low,SRE-1g-CRT-JFA,SRENE - 1g Cart - Jet Fuel Acai,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,403.0,403.0,0.0,0.0,0.0,30,400.0,13.3333,30.2,21.0,0,0.65,No
+216,Low,SRE-3.5-JAR-LEM,SRENE - 3.5 grams - Jar - Lemon Rope,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Jar,781.0,781.0,0.0,0.0,0.0,30,375.0,12.5,62.5,21.0,0,0.61,No
+217,Low,SRE-1g-CRT-TB,SRENE - 1g Cart - Tropical Breath,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,618.0,618.0,0.0,0.0,0.0,30,350.0,11.6667,53.0,21.0,0,0.57,No
+218,Low,SRE- PRJ - STR - .7 - 5pk,SRENE - Strange Haze #8 - Pre Roll - .7g - 5 Pack,Preroll,Unit,Pre-rolled cigs/joints,5pk Pre-Roll,545.0,545.0,0.0,0.0,0.0,30,350.0,11.6667,46.7,21.0,0,0.57,No
+219,Low,SRN-PRJ-TRA,SRENE - 1g - Pre-roll - Tropicana Acai,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,348.0,348.0,0.0,0.0,0.0,30,350.0,11.6667,29.8,21.0,0,0.57,No
+220,Low,SRE-1g-CRT-GD,SRENE - 1g Cart - Guava Diesel,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,543.0,543.0,0.0,0.0,0.0,30,335.0,11.1667,48.6,21.0,0,0.55,No
+221,Low,SRE-1g-CRT-BIO,SRENE - 1g Cart - BioFuel,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,1160.0,1160.0,0.0,0.0,0.0,30,325.0,10.8333,107.1,21.0,0,0.53,No
+222,Low,SRE-14.-MYL-LER,SRENE - 1/2 Ounce - Lemon Rope,Unit,Half Ounce,Marijuana Flowers/Buds-Packaged,14g Mylar,290.0,290.0,0.0,0.0,0.0,30,281.0,9.3667,31.0,21.0,0,0.46,No
+223,Low,VYB-3.5-MYL-BIO,VYBZ - 3.5 grams - BioFuel,Unit,Eighth,Marijuana Flowers/Buds-Packaged,3.5g Mylar,585.0,585.0,0.0,0.0,0.0,30,275.0,9.1667,63.8,21.0,0,0.45,No
+224,Low,SRE-1g-CRT-GPS,SRENE - 1g Cart - Guava Papaya Smoothie,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,484.0,484.0,0.0,0.0,0.0,30,250.0,8.3333,58.1,21.0,0,0.41,No
+225,Low,SRE-1g-CRT-HON,SRENE - 1g Cart - Honey Dew,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,407.0,407.0,0.0,0.0,0.0,30,250.0,8.3333,48.8,21.0,0,0.41,No
+226,Low,SRE-1g-CRT-FP,SRENE - 1g Cart - Fruity P,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,258.0,258.0,0.0,0.0,0.0,30,225.0,7.5,34.4,21.0,0,0.37,No
+227,Low,SRN-PRJ-ZEG,SRENE - 1g - Pre-roll - Zero Gravity,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,1303.0,1303.0,0.0,0.0,0.0,30,200.0,6.6667,195.4,21.0,0,0.33,No
+228,Low,SRE-1g-CRT-CNV,SRENE - 1g Cart - Chem NV,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,394.0,394.0,0.0,0.0,0.0,30,200.0,6.6667,59.1,21.0,0,0.33,No
+229,Low,SRE-1g-CRT-AIO-TAS,SRENE - 1g AIO Cart - Tropicana Acai Slush,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,625.0,625.0,0.0,0.0,0.0,30,150.0,5.0,125.0,21.0,0,0.24,No
+230,Low,SRE-1g-CRT-AIO-FRP,SRENE - 1g AIO Cart - Fruity P,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,600.0,600.0,0.0,0.0,0.0,30,150.0,5.0,120.0,21.0,0,0.24,No
+231,Low,SRE-1g-CRT-SCF,SRENE - 1g Cart - Sin City Funk,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,355.0,355.0,0.0,0.0,0.0,30,150.0,5.0,71.0,21.0,0,0.24,No
+232,Low,SRE-1g-CRT-AIO-CHV,SRENE - 1g AIO Cart - Chem NV,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,150.0,150.0,0.0,0.0,0.0,30,150.0,5.0,30.0,21.0,0,0.24,No
+233,Low,SRE-1g-CRT-AIO-DAS,SRENE - 1g AIO Cart - DayStripper,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,400.0,400.0,0.0,0.0,0.0,30,100.0,3.3333,120.0,21.0,0,0.16,No
+234,Low,SRE-1g-CRT-WHO,SRENE - 1g Cart - White Out,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,380.0,380.0,0.0,0.0,0.0,30,100.0,3.3333,114.0,21.0,0,0.16,No
+235,Low,SRE-1g-CRT-AIO-HEJ,SRENE - 1g AIO Cart - Hella Jelly,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,200.0,200.0,0.0,0.0,0.0,30,100.0,3.3333,60.0,21.0,0,0.16,No
+236,Low,SRE-1g-CRT-AIO-BGG,SRENE - 1g AIO Cart - BubbleGum Gary,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,150.0,150.0,0.0,0.0,0.0,30,100.0,3.3333,45.0,21.0,0,0.16,No
+237,Low,VYB-PRJ-TRA,Vybz - 1g - Pre-roll - Tropicana Acai,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,2807.0,2807.0,0.0,0.0,0.0,30,50.0,1.6667,1684.2,21.0,0,0.08,No
+238,Low,SRE-1g-CRT-AIO-GD,SRENE - 1g AIO Cart - Guava Diesel,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,975.0,975.0,0.0,0.0,0.0,30,50.0,1.6667,585.0,21.0,0,0.08,No
+239,Low,SRE-1g-CRT-ROH,SRENE - 1g Cart - Royale Haze,Cart,Unit,Non-Solvent Based Concentrate (Each),1g Cart,376.0,376.0,0.0,0.0,0.0,30,50.0,1.6667,225.6,21.0,0,0.08,No
+240,Low,SRE-1g-CRT-AIO-LEH,SRENE - 1g AIO Cart - Lemon Haze,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,175.0,175.0,0.0,0.0,0.0,30,50.0,1.6667,105.0,21.0,0,0.08,No
+241,Low,SRE-1g-CRT-AIO-TRB,SRENE - 1g AIO Cart - Tropical Breath,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,125.0,125.0,0.0,0.0,0.0,30,50.0,1.6667,75.0,21.0,0,0.08,No
+242,Low,SRE-DST-RAW-MXD,RAW - Mixed Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Raw Distillate,10479.0,10479.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+243,Low,SRE-BUD-SPJ,Bud - Space Junky,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,9025.76,9025.76,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+244,Low,SRE-BUD-LIM,Bud - Limesicle,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,6770.03,6770.03,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+245,Low,SRE-BUD-STG,Bud - Stripper Glitter,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,6443.91,6443.91,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+246,Low,SRE-PRM-STG,Preroll Material - Stripper Glitter,Bulk,Gram,Shake/Trim,Preroll Material,5978.9,5978.9,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+247,Low,SRE-PRM-ROY,Preroll Material - Royale Grape,Bulk,Gram,Shake/Trim,Preroll Material,5079.18,5079.18,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+248,Low,SRE-BUD-ROS,Bud - Rose Sorbet,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,4513.06,4513.06,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+249,Low,SRE-BUD-SCF,Bud - Sin City Funk,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,4512.98,4512.98,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+250,Low,SRN-PRJ-SCF,SRENE - 1g - Pre-roll - Sin City Funk,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,3241.0,3241.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+251,Low,VYB-PRJ-OBX,Vybz - 1g - Pre-roll - O.B.X,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,2743.0,2743.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+252,Low,VYB-PRJ-BF,Vybz - 1g - Pre-roll - BioFuel,Preroll,Unit,Pre-rolled cigs/joints,1g Pre-Roll,2201.0,2201.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+253,Low,SRE-DST,Distillate (Bulk),Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,1992.3,1992.3,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+254,Low,SRE-SMA-SPJ,Smalls - Space Junky,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,1722.04,1722.04,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+255,Low,SRE-DST-FOR-PO,Peach Octane - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,991.0,991.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+256,Low,SRE-DIS-FOR-LEH,Lemon Haze - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,991.0,991.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+257,Low,SRE-DST-FOR-SS,Satellite Syrup - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,991.0,991.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+258,Low,SRE-DST-FOR-PUH,Purple Haze - Distillate,Bulk,Gram,Non-Solvent Based Concentrate,Formulated Distillate,989.0,989.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+259,Low,SRE-PRM-ZER,Preroll Material - Zero Gravity,Bulk,Gram,Shake/Trim,Preroll Material,783.1,783.1,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+260,Low,SRE-SMA-ROS,Smalls - Rose Sorbet,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,782.83,782.83,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+261,Low,SRE-SMA-LIM,Smalls - Limesicle,Bulk,Gram,Small/Popcorn Buds,Bulk Smalls,756.2,756.2,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+262,Low,SRE-1g-CRT-AIO-WHO,SRENE - 1g AIO Cart - White Out,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,754.0,754.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+263,Low,SRE-PRM-SCF,Preroll Material - Sin City Funk,Bulk,Gram,Shake/Trim,Preroll Material,683.2,683.2,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+264,Low,SRE-PRM-ROS,Preroll Material - Rose Sorbet,Bulk,Gram,Shake/Trim,Preroll Material,631.0,631.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+265,Low,SRE-1g-CRT-AIO-MEL,SRENE - 1g AIO Cart - Melonade,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,500.0,500.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+266,Low,SRE-PRM-BIO,Preroll Material - BioFuel,Bulk,Gram,Shake/Trim,Preroll Material,356.0,356.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+267,Low,SRE-1g-CRT-AIO-ROH,SRENE - 1g AIO Cart - Royale Haze,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,325.0,325.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+268,Low,SRE-1g-CRT-AIO-GMO,SRENE - 1g AIO Cart - GovernMint Oasis,Cart,Unit,Non-Solvent Based Concentrate (Each),1g AIO Cart,254.0,254.0,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+269,Low,SRE-BUD-DAY,Bud - DayStripper,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,51.29,51.29,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No
+270,Low,SRE-BUD-OBX,Bud - O.B.X.,Bulk,Gram,Marijuana Flowers/Buds,Bulk Flower,33.9,33.9,0.0,0.0,0.0,30,0.0,0.0,,21.0,0,0.0,No

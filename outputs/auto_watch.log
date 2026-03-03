@@ -1,0 +1,5 @@
+[2026-03-03T16:10:23.127171+00:00] Watching folder: C:\dev\Packaging+Inventory Priority\inputs\auto_drop
+[2026-03-03T16:10:23.128315+00:00] Strict mode: expecting latest_inventory.csv and latest_sales.csv
+[2026-03-03T16:10:23.129168+00:00] Status file: C:\dev\Packaging+Inventory Priority\outputs\auto_watch_status.json
+[2026-03-03T16:10:23.129935+00:00] Log file: C:\dev\Packaging+Inventory Priority\outputs\auto_watch.log
+[2026-03-03T16:10:23.131161+00:00] Waiting for files... Need both inventory and sales CSVs in C:\dev\Packaging+Inventory Priority\inputs\auto_drop. Mode=strict latest names

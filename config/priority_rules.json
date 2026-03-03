@@ -1,0 +1,24 @@
+{
+  "target_days_of_cover": 21,
+  "default_sales_window_days": 30,
+  "inventory_header": {
+    "sku": "SKU",
+    "name": "Name",
+    "unit_type": "Unit Type",
+    "available_qty": "Available Quantity",
+    "incoming_qty": "Incoming Quantity",
+    "threshold_min": "Inventory Threshold Min",
+    "category": "Category",
+    "subcategory": "Subcategory"
+  },
+  "sales_header_aliases": {
+    "sku": ["SKU", "Item SKU", "Product SKU", "Variant SKU"],
+    "qty": ["Quantity", "Qty", "Quantity Sold", "Order Quantity", "Units Sold"],
+    "date": ["Order Date", "Date", "Sale Date", "Invoice Date"]
+  },
+  "score_weights": {
+    "coverage_gap": 70,
+    "sales_velocity": 20,
+    "below_threshold": 10
+  }
+}
