@@ -131,15 +131,6 @@ def save_status(path: Path, payload: dict) -> None:
     path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
-def run_post_run_command(command: str, workspace: Path, log_file: Optional[Path]) -> tuple[int, str]:
-    emit(f"Running post-run command: {command}", log_file)
-    result = subprocess.run(command, cwd=workspace, shell=True, capture_output=True, text=True)
-    output = "\n".join(part for part in [result.stdout, result.stderr] if part).strip()
-    if output:
-        emit("Post-run output:\n" + output, log_file)
-    return result.returncode, output
-
-
 def process_once(
     workspace: Path,
     drop_dir: Path,
@@ -151,7 +142,6 @@ def process_once(
     python_cmd: str,
     top_n: int,
     log_file: Optional[Path],
-    post_run_command: str,
 ) -> bool:
     pair = find_strict_latest_pair(drop_dir) if strict_latest_names else find_input_pair(
         drop_dir,
@@ -206,20 +196,6 @@ def process_once(
     if code == 0:
         save_state(state_path, current)
         emit("Pipeline finished successfully. State updated.", log_file)
-        post_result = {"post_run_command": post_run_command or ""}
-        if post_run_command.strip():
-            post_code, post_output = run_post_run_command(post_run_command, workspace, log_file)
-            post_result.update(
-                {
-                    "post_run_exit_code": post_code,
-                    "post_run_error": post_output[-2000:] if post_code != 0 and post_output else "",
-                }
-            )
-            if post_code != 0:
-                emit(f"Post-run command failed with exit code {post_code}.", log_file)
-        else:
-            post_result.update({"post_run_exit_code": 0, "post_run_error": ""})
-
         status_payload.update(
             {
                 "last_result": "success",
@@ -227,7 +203,6 @@ def process_once(
                 "inventory": str(pair.inventory),
                 "sales": str(pair.sales),
                 "exit_code": code,
-                **post_result,
             }
         )
         save_status(status_path, status_payload)
@@ -273,11 +248,6 @@ def main() -> None:
     )
     parser.add_argument("--top-n", type=int, default=25, help="Top N production rows")
     parser.add_argument("--python", default=sys.executable, help="Python executable for pipeline command")
-    parser.add_argument(
-        "--post-run-command",
-        default="",
-        help="Optional shell command to run after a successful pipeline run",
-    )
     parser.add_argument("--watch", action="store_true", help="Keep watching and run on each new pair")
     parser.add_argument("--interval", type=int, default=20, help="Polling interval in seconds when --watch is used")
     args = parser.parse_args()
@@ -301,8 +271,6 @@ def main() -> None:
     emit(f"Status file: {status_path}", log_file)
     if log_file:
         emit(f"Log file: {log_file}", log_file)
-    if args.post_run_command.strip():
-        emit(f"Post-run command enabled: {args.post_run_command}", log_file)
 
     if not args.watch:
         process_once(
@@ -316,7 +284,6 @@ def main() -> None:
             python_cmd=args.python,
             top_n=args.top_n,
             log_file=log_file,
-            post_run_command=args.post_run_command,
         )
         return
 
@@ -333,7 +300,6 @@ def main() -> None:
             python_cmd=args.python,
             top_n=args.top_n,
             log_file=log_file,
-            post_run_command=args.post_run_command,
         )
         time.sleep(max(5, args.interval))
 

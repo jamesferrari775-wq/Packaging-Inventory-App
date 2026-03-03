@@ -66,9 +66,6 @@
     </div>
 
     <div class="card">
-      {% if view_only %}
-      <p>This page is running in view-only mode. Upload and pipeline run controls are disabled.</p>
-      {% else %}
       <form method="post" enctype="multipart/form-data">
         <label for="inventory">Inventory CSV (required)</label>
         <input id="inventory" name="inventory" type="file" accept=".csv" required>
@@ -80,7 +77,6 @@
 
         <button class="button" type="submit">Run Priority Pipeline</button>
       </form>
-      {% endif %}
     </div>
 
     {% if success is not none %}

@@ -1,13 +1,12 @@
 from __future__ import annotations
 
 import argparse
-import os
 import subprocess
 import sys
 from datetime import datetime
 from pathlib import Path
 
-from flask import Flask, abort, jsonify, render_template, request, send_file
+from flask import Flask, abort, render_template, request, send_file
 
 
 WORKSPACE = Path(__file__).resolve().parent.parent
@@ -20,21 +19,6 @@ def ensure_dirs() -> None:
 
 
 app = Flask(__name__)
-
-
-def env_flag(name: str, default: bool = False) -> bool:
-    raw = os.getenv(name)
-    if raw is None:
-        return default
-    return raw.strip().lower() in {"1", "true", "yes", "on"}
-
-
-def is_view_only_mode() -> bool:
-    return env_flag("VIEW_ONLY", default=False)
-
-
-def ingest_token() -> str:
-    return os.getenv("INGEST_TOKEN", "").strip()
 
 
 def save_upload(file_storage, prefix: str) -> Path | None:
@@ -129,9 +113,8 @@ def index():
     message = ""
     success = None
     log_output = ""
-    view_only = is_view_only_mode()
 
-    if request.method == "POST" and not view_only:
+    if request.method == "POST":
         inventory_file = request.files.get("inventory")
         sales_file = request.files.get("sales")
 
@@ -154,7 +137,6 @@ def index():
         log_output=log_output,
         downloads=list_downloads(),
         tile_views=list_tile_views(),
-        view_only=view_only,
     )
 
 
@@ -186,76 +168,9 @@ def view_file(rel_path: str):
     return send_file(target, as_attachment=False, mimetype="text/html")
 
 
-@app.get("/stations")
-def stations_all():
-    return view_file("outputs/stations/station_todo_tiles.html")
-
-
-@app.get("/stations/cart")
-def stations_cart():
-    return view_file("outputs/stations/cart_station_tiles.html")
-
-
-@app.get("/stations/unit")
-def stations_unit():
-    return view_file("outputs/stations/unit_station_tiles.html")
-
-
-@app.get("/stations/preroll")
-def stations_preroll():
-    return view_file("outputs/stations/preroll_station_tiles.html")
-
-
 @app.get("/favicon.ico")
 def favicon():
     return ("", 204)
-
-
-@app.post("/api/ingest")
-def ingest():
-    token = ingest_token()
-    if not token:
-        return jsonify({"ok": False, "error": "INGEST_TOKEN is not configured on server"}), 500
-
-    provided_header = request.headers.get("X-Ingest-Token", "").strip()
-    auth_header = request.headers.get("Authorization", "").strip()
-    provided_bearer = ""
-    if auth_header.lower().startswith("bearer "):
-        provided_bearer = auth_header[7:].strip()
-    provided_form = request.form.get("ingest_token", "").strip()
-    provided_query = request.args.get("token", "").strip()
-    provided = provided_header or provided_bearer or provided_form or provided_query
-    if provided != token:
-        return jsonify({"ok": False, "error": "Unauthorized"}), 401
-
-    inventory_file = request.files.get("inventory")
-    sales_file = request.files.get("sales")
-
-    if not inventory_file or not inventory_file.filename:
-        return jsonify({"ok": False, "error": "Missing required file: inventory"}), 400
-
-    ensure_dirs()
-    inventory_path = save_upload(inventory_file, "inventory")
-    sales_path = save_upload(sales_file, "sales") if sales_file and sales_file.filename else None
-
-    ok, logs = run_priority_pipeline(inventory_path, sales_path)
-    status_code = 200 if ok else 500
-    return (
-        jsonify(
-            {
-                "ok": ok,
-                "message": "Priority list generated" if ok else "Pipeline failed",
-                "outputs": {
-                    "priority": "outputs/priority_list.csv",
-                    "production": "outputs/production_plan.csv",
-                    "todo": "outputs/team_todo.csv",
-                    "stations": "outputs/stations",
-                },
-                "logs": logs,
-            }
-        ),
-        status_code,
-    )
 
 
 def main() -> None:

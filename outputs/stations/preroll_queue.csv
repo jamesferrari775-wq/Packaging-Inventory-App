@@ -1,0 +1,3 @@
+Priority Rank,Priority,Need SKU,Need Name,Need Type,Unavailable,Need List Qty,Need Available Qty,Need Reserved Qty,Need On Hand Qty,Recommended Qty,Matched Strain,Fillable From Source,Source Rule,Suggested Source SKU,Suggested Source Name,Source Available Qty,Match Type,Testing Status,Scheduling Ready,Blocked Reason
+10,Low,SRENE - 1g - Pre-roll - Rose Sorbet,SRENE - 1g - Pre-roll - Rose Sorbet,Preroll,No,2719.0,2719.0,0.0,2719.0,0,rose sorbet,Yes,Trim/Preroll Material only,Trim - Rose Sorbet,Trim - Rose Sorbet,7027.39,Exact,TestPassed,Yes,
+28,Low,SRENE - 1g - Pre-roll - DayStripper,SRENE - 1g - Pre-roll - DayStripper,Preroll,No,1100.0,1100.0,0.0,1100.0,0,daystripper,Yes,Trim/Preroll Material only,Trim - DayStripper,Trim - DayStripper,3504.62,Exact,TestPassed,Yes,

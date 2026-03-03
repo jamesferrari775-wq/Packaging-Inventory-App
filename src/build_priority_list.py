@@ -1035,7 +1035,6 @@ def write_station_tile_views(base_dir: Path, todo_rows: List[dict], top_n: int =
                     <div class='title'>#{todo_rank} · {name}</div>
                     <div class='row'><strong>Need SKU:</strong> {sku}</div>
                     <div class='row'><strong>Source:</strong> {source}</div>
-                    <div class='row'><strong>Metrc Inventory (grams):</strong> {related_inventory}</div>
                     <div class='row'><strong>Inventory Units:</strong> {inventory_units_summary}</div>
                     <div class='row'><strong>Bulk Potential Units:</strong> {bulk_potential_summary}</div>
                     <div class='row'><strong>Next Action:</strong> {next_action}</div>
@@ -1045,7 +1044,6 @@ def write_station_tile_views(base_dir: Path, todo_rows: List[dict], top_n: int =
                     name=html.escape(str(row.get("Need Name", ""))),
                     sku=html.escape(str(row.get("Need SKU", ""))),
                     source=html.escape(str(row.get("Suggested Source Name", ""))),
-                    related_inventory=html.escape(str(row.get("Related Packaged Inventory", "None"))),
                     inventory_units_summary=html.escape(inventory_units_summary),
                     bulk_potential_summary=html.escape(bulk_potential_summary),
                     next_action=html.escape(str(row.get("Next Action", ""))),
@@ -1124,12 +1122,7 @@ def build_todo_rows(
         if key not in packaged_units_breakdown_by_station_strain:
             packaged_units_breakdown_by_station_strain[key] = {}
 
-        converted_units = convert_grams_to_units(
-            inv.available_qty,
-            station,
-            subcategory=inv.subcategory,
-            name=inv.name,
-        )
+        converted_units = int(math.floor(inv.available_qty))
         packaged_units_total_by_station_strain[key] += converted_units
 
         label = inventory_subtype_label(station, subcategory=inv.subcategory, name=inv.name)

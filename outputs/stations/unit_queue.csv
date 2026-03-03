@@ -1,0 +1,3 @@
+Priority Rank,Priority,Need SKU,Need Name,Need Type,Unavailable,Need List Qty,Need Available Qty,Need Reserved Qty,Need On Hand Qty,Recommended Qty,Matched Strain,Fillable From Source,Source Rule,Suggested Source SKU,Suggested Source Name,Source Available Qty,Match Type,Testing Status,Scheduling Ready,Blocked Reason
+8,Low,SRENE - 3.5 grams - Jar - Rose Sorbet,SRENE - 3.5 grams - Jar - Rose Sorbet,Unit,No,2394.0,2394.0,0.0,2394.0,0,rose sorbet,Yes,Flower/Smalls only,Bud - Rose Sorbet,Bud - Rose Sorbet,4513.06,Exact,TestPassed,Yes,
+16,Low,SRENE - 3.5 grams - Jar - Limesicle,SRENE - 3.5 grams - Jar - Limesicle,Unit,No,3251.5,3251.5,0.0,3251.5,0,limesicle,Yes,Flower/Smalls only,Bud - Limesicle,Bud - Limesicle,6770.03,Exact,TestPassed,Yes,
